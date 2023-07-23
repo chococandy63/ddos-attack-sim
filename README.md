@@ -5,6 +5,12 @@ Step 1: Create a local server using Apache and host a website on it.
 
 ![image](https://github.com/chococandy63/ddos-attack-sim/assets/79960426/e4a6a651-caea-4c63-9db5-c708496aa68b)
 
+For adding webpage on Apache server:
+Follow the given steps to add `second.html` webpage-
+
+![image](https://github.com/chococandy63/ddos-attack-sim/assets/79960426/79f8a126-fea4-4360-90d4-26e27c5d7a72)
+
+
 Step 2: Run this shell script
 
 ![image](https://github.com/chococandy63/ddos-attack-sim/assets/79960426/394e56e3-f06d-4c6d-8217-b8c7c2f5cb2a)
