@@ -10,4 +10,7 @@ Step 2: Run this shell script
 ![image](https://github.com/chococandy63/ddos-attack-sim/assets/79960426/394e56e3-f06d-4c6d-8217-b8c7c2f5cb2a)
 
 
+Tool Used:
+For Simulating DDoS attack- Goldeneye
 
+![image](https://github.com/chococandy63/ddos-attack-sim/assets/79960426/0b867b86-1be0-4f38-b724-e8d782008dde)
