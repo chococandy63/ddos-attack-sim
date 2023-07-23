@@ -11,6 +11,12 @@ Step 2: Run this shell script
 
 
 Tool Used:
-For Simulating DDoS attack- Goldeneye
+
+- For Simulating DDoS attack- Goldeneye
 
 ![image](https://github.com/chococandy63/ddos-attack-sim/assets/79960426/0b867b86-1be0-4f38-b724-e8d782008dde)
+
+Starting the attack:
+
+![image](https://github.com/chococandy63/ddos-attack-sim/assets/79960426/b2a1db29-0bab-43e3-a5ad-1464ed4b38a6)
+
